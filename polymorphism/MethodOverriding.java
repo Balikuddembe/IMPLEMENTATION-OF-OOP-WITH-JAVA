@@ -2,7 +2,8 @@ package polymorphism;
 /*
  * methodoverriding,trying to change the behaviour of the parent class method in the derived class
  * polymorphism,same method name ,different behavoiur
- * The concept of method overriding is also known as run-time polymorphism in java.
+ * The concept of method overriding can be used to achieve run-time polymorphism in java.
+ * overriding is used to change the existing functionality of the superclass method
  */
 class EnglishMessage
 {

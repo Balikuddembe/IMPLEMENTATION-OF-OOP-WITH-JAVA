@@ -16,13 +16,15 @@ class Marry
 	{
 		System.out.println("The engagement date will be on 23 rd Dec.");
 	}
-	public void marryDate()
+	public void  marryDate()
 	{
 		System.out.println("The marry date will be 25th Dec.");
 	}
 }
+//sub class 
 class Modification extends Marry
 {
+	//we use the @Override for readability and understanding
 	@Override
 	public void marryDate()
 	{
