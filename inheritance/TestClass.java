@@ -1,7 +1,7 @@
 package inheritance;
 /*
  * This code implements the concept of inheritance.Note the following about inheritance
- * Inheritance is one of the four core cncepts of OOP
+ * Inheritance is one of the four core concepts of OOP
  * Inheritance is the process of reusing the base class methods in the derived class
  * The main reason behind inheritance is re-usability
  * There are types of inheritance,include:
@@ -9,7 +9,7 @@ package inheritance;
  * 2.multiple inheritance(a child having multiple parents)
  * 3.multilevel(two children  having one parent )
  * Java doesnot support multiple inheritance for classes,but it supports it for interfaces
- * 
+ * Below is an example to demonstrate this concept
  */
 class Rectangle
 {
