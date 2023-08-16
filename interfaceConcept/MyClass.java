@@ -32,7 +32,6 @@ class Area implements Shape
 	}
 }
 
-
 public class MyClass {
 	public static void main(String[]args)
 	{
@@ -40,6 +39,5 @@ public class MyClass {
 		a.calRecArea();
 		Area a1 = new Area(2.1);
 		a1.calCircArea();
-		
 	}
 }

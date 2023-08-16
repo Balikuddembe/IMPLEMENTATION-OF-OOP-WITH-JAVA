@@ -1,9 +1,9 @@
 package abstractionConcept;
 /*
  * abstraction in Java is a technique by which we can hide the data that is not required to a user.
- * Let’s first take ATM machine as a real-time example. We all use an ATM machine for cash withdrawal,
+ * Letï¿½s first take ATM machine as a real-time example. We all use an ATM machine for cash withdrawal,
  * money transfer, retrieve min-statement, etc in our daily life.
- * But we don’t know internally what things are happening inside ATM machine when you insert an ATM card 
+ * But we donï¿½t know internally what things are happening inside ATM machine when you insert an ATM card 
  * for performing any kind of operation.
  * 
  * An abstract class cannot be instantiated ie;You can't write MyTest mytest = new MyTest();
@@ -28,8 +28,7 @@ class Addition extends MyTest
 		public int calculate(int a,int b)
 		{
 			return a-b;
-		}
-		
+		}	
 	}
 	class Multiplication extends MyTest
 	{

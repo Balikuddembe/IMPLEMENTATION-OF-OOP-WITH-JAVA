@@ -28,5 +28,4 @@ public class MethodOverloading {
 		System.out.println("The area of a rectangle is: " + obj.calArea(2.1,3.1));
 		System.out.println("The area of a circle is: " + obj.calArea(1));
 	}
-
 }

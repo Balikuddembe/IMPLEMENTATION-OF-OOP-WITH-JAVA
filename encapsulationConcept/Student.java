@@ -44,13 +44,10 @@ public class Student
 		Student student = new Student();
 		
 		//Call the setter method and set the values of the variables
-		
 		student.setStdName("Emmanuel");
 		student.setStdEmail("balixemma@gmail.com");
 		student.setStdID(2009);
-		
 		//call the getter method to read the values of the variable and print it
-		
 		System.out.println("Student name is : " + student.getStdName());
 		System.out.println("Student email address is : " + student.getStdEmail());
 		System.out.println("Student id number is : " + student.getStdID());

@@ -59,7 +59,6 @@ class UCC extends Salary
 	}
 }
 
-
 public class MyClass {
 	//using the concept of dependency injection
 	public static int CalculateSalary(Salary obj) {
@@ -88,8 +87,7 @@ public class MyClass {
 		System.out.println("URA Salary is " + CalculateSalary(new URA()));
 		System.out.println("UCAA Salary is " + CalculateSalary(new UCAA()));
 		System.out.println("UCC Salary is " + CalculateSalary(new UCC()));
-	}
-	
+	}	
 }
 
 

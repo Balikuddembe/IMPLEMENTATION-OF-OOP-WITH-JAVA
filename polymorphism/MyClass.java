@@ -38,8 +38,5 @@ public class MyClass {
 		Modification obj = new Modification();
 		obj.engagementDate();
 		obj.marryDate();
-		
-
 	}
-
 }

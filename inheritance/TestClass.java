@@ -37,5 +37,4 @@ public class TestClass {
 		circle.calRec(2, 2);
 		
 	}
-
 }

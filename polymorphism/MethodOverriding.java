@@ -34,9 +34,5 @@ public class MethodOverriding {
 		obj.printGoodmorning();
 		obj.printHelo();
 		obj.printHi();
-		
-		
-
 	}
-
 }
